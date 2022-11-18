@@ -1,4 +1,4 @@
-# House-Prices---Advanced-Regression-Techniques
+# House Prices - Advanced Regression Techniques
 
 The showcased work consists in the Kaggle competition __[House Prices - Avanced Regression Techniques]([http://url](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques))__ where the challenged are asked to perform a predictive analysis on the market value of real estate assets on the basis of a number of descriptive variables regarding a variety of the properties' characteristics, which affect their sale price in different measures.
 
